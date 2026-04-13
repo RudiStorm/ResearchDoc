@@ -9,8 +9,6 @@ This project involves building a command-line HTTP client similar to curl. The g
 
 The project emphasizes clean architecture, modular design, and incremental feature development.
 
-
-
 ## Objectives
 Build a fully functional HTTP client using Vala.
 Gain experience with command-line argument parsing.
